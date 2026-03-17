@@ -1,4 +1,4 @@
-const API_URL = "https://movie-explorer-xyz.onrender.com";
+const API_URL = "https://movie-explorer-ck1b.onrender.com";
 
 async function fetchMovies() {
     const res = await fetch(`${API_URL}/movies`);
